@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📛 My name is Yeremiah Kevin
-🎓 I'm a Computer Science student
-🔭 Currently I work as a Web Developer
-🔥 I'm very interested in the world of technology
+- 📛 My name is Yeremiah Kevin
+- 🎓 I'm a Computer Science student
+- 🔭 Currently I work as a Web Developer
+- 🔥 I'm very interested in the world of technology
